@@ -1,0 +1,71 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-midnight: #111927;
+    --color-deep-navy: #182234;
+    --color-warm-ivory: #F2EBDD;
+    --color-soft-cream: #FAF7F0;
+    --color-antique-gold: #C5A568;
+    --color-deep-charcoal: #282724;
+    --color-muted-text: #766F63;
+  }
+
+  body {
+    background-color: #111927;
+    color: #FAF7F0;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    letter-spacing: -0.01em;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, .font-serif-royal {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+  }
+
+  .font-cinzel {
+    font-family: 'Cinzel', 'Times New Roman', serif;
+  }
+
+  .font-script {
+    font-family: 'Pinyon Script', cursive;
+  }
+}
+
+/* Custom editorial styling */
+.text-gold-gradient {
+  color: #C5A568;
+}
+
+.gold-border-subtle {
+  border-color: rgba(197, 165, 104, 0.25);
+}
+
+.gold-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent 0%, rgba(197, 165, 104, 0.6) 50%, transparent 100%);
+}
+
+.gold-divider-left {
+  height: 1px;
+  background: linear-gradient(90deg, rgba(197, 165, 104, 0.7) 0%, rgba(197, 165, 104, 0.1) 80%, transparent 100%);
+}
+
+/* Noise texture overlay for luxury editorial grain */
+.editorial-grain {
+  background-image: radial-gradient(rgba(197, 165, 104, 0.04) 1px, transparent 0);
+  background-size: 24px 24px;
+}
+
+/* Drop-cap for letter */
+.drop-cap-royal::first-letter {
+  font-family: 'Cinzel', serif;
+  float: left;
+  font-size: 3.75rem;
+  line-height: 0.85;
+  padding-top: 4px;
+  padding-right: 14px;
+  padding-bottom: 2px;
+  color: #C5A568;
+  font-weight: 600;
+}

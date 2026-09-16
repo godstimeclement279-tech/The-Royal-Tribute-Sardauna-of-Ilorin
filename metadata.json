@@ -1,0 +1,6 @@
+{
+  "name": "The Royal Tribute — Sardauna of Ilorin",
+  "description": "A luxury digital ceremonial publication presented by Jetflite Limited congratulating His Excellency AbdulRahman AbdulRazaq on his chieftaincy title, Sardauna of Ilorin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

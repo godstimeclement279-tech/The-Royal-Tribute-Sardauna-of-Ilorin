@@ -1,0 +1,57 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 540 260' width='100%' height='100%' fill='none'>
+  <!-- Authentic Signature of Mr. Benjamin Udekwe, CEO Jetflite Limited -->
+  <g stroke='#1b2a4a' stroke-linecap='round' stroke-linejoin='round'>
+    
+    <!-- Faint atmospheric enclosing flourish loop around the top -->
+    <path d='M 120 120 C 80 85, 140 45, 230 46 C 300 47, 365 72, 385 105' 
+          stroke='#2a3d66' stroke-width='1.4' opacity='0.25' fill='none' />
+
+    <!-- Left Horizontal cross stroke cutting through B and vertical stem -->
+    <path d='M 68 132 C 98 132, 136 134, 175 133 C 195 132, 218 130, 248 127' 
+          stroke-width='3.2' stroke='#15223c' />
+
+    <!-- Left Cursive 'B' / '3' loops -->
+    <!-- Upper loop -->
+    <path d='M 134 105 C 104 96, 88 112, 90 124 C 92 135, 114 137, 136 135 C 152 134, 160 137, 142 142' 
+          stroke-width='3.2' stroke='#1a2846' fill='none' />
+    <!-- Lower loop -->
+    <path d='M 142 142 C 112 144, 102 165, 114 176 C 128 188, 154 186, 164 164 C 170 152, 166 136, 155 132' 
+          stroke-width='3.2' stroke='#1a2846' fill='none' />
+
+    <!-- Central Tall Vertical Stem & Upper 'P' loop -->
+    <!-- Upper loop: starts near stem top, curves out to the right and connects back at horizontal crossing -->
+    <path d='M 174 72 C 175 58, 185 52, 196 52 C 214 52, 226 68, 226 90 C 226 112, 206 126, 174 128' 
+          stroke-width='3.4' stroke='#182642' fill='none' />
+    <!-- Vertical downward plunge with tapered bottom tail -->
+    <path d='M 174 62 L 174 130 L 175 202 C 175 206, 173 208, 171 210' 
+          stroke-width='3.6' stroke='#142038' />
+
+    <!-- Connected cursive letters (engmn / jamin) -->
+    <!-- Lead-in loop from stem -->
+    <path d='M 174 128 C 188 130, 206 128, 216 118 C 223 111, 220 128, 222 136' 
+          stroke-width='3.1' stroke='#1a2947' fill='none' />
+    
+    <!-- First arch and descender loop -->
+    <path d='M 222 126 C 228 116, 238 116, 244 127 L 244 140' 
+          stroke-width='3.0' stroke='#1a2947' fill='none' />
+    <path d='M 244 127 C 250 115, 262 115, 267 127 C 271 138, 271 154, 268 162 C 265 168, 258 167, 260 156 C 263 144, 276 120, 286 118' 
+          stroke-width='3.1' stroke='#1a2947' fill='none' />
+    
+    <!-- Connected arches (m / in) -->
+    <path d='M 286 122 C 292 114, 301 114, 305 125 L 305 139' 
+          stroke-width='2.9' stroke='#1a2947' fill='none' />
+    <path d='M 305 122 C 313 112, 323 112, 327 124 L 327 139' 
+          stroke-width='2.9' stroke='#1a2947' fill='none' />
+    <path d='M 327 122 C 335 112, 347 112, 353 122 C 358 130, 357 136, 354 141' 
+          stroke-width='3.0' stroke='#1a2947' fill='none' />
+
+    <!-- Distinct Floating Accent Tick at Top-Right -->
+    <path d='M 344 46 L 354 62' 
+          stroke-width='3.6' stroke='#142038' />
+
+    <!-- Pen pressure and ink absorption anchor spots -->
+    <circle cx='174' cy='128' r='2.2' fill='#142038' />
+    <circle cx='70' cy='132' r='1.8' fill='#142038' />
+    <circle cx='354' cy='62' r='2.0' fill='#142038' />
+  </g>
+</svg>
